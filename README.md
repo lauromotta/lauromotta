@@ -1,16 +1,40 @@
-### Hi there 👋
+<b>Olá! Meu nome é Lauro Motta.</b>
 
-<!--
-**lauromotta/lauromotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um entusiasta apaixonado por desenvolvimento de software e tive a oportunidade de iniciar minha jornada nessa área em 2019, trabalhando com VBA. Desde então, tenho procurado constantemente ampliar meus conhecimentos e habilidades, adquirindo conhecimento em HTML, CSS, Python, MySQL e outras ferramentas e plataformas relevantes para o desenvolvimento de software.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Socials:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauromotta) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauropmotta@gmail.com)
+<a href= 'https://wa.me/5521987189591'><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+
+
+# Tech Stack:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
+# GitHub Stats:
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=lauromotta&theme=blue-green&show_icons=true&include_all_commits=false&count_private=false" align="center">
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauromotta&theme=blue-green&show_icons=true&include_all_commits=false&count_private=false&layout=compact" align="center">
+</p>
+
+<p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauromotta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lauromotta&theme=transparent&show_icons=true" align="center">
+
+</p>
