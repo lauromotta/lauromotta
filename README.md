@@ -1,6 +1,6 @@
 <b>Olá! Meu nome é Lauro Motta.</b>
 
-Sou um entusiasta apaixonado por desenvolvimento de software e tive a oportunidade de iniciar minha jornada nessa área em 2019, trabalhando com VBA. Desde então, tenho procurado constantemente ampliar meus conhecimentos e habilidades, adquirindo conhecimento em HTML, CSS, Python, MySQL e outras ferramentas e plataformas relevantes para o desenvolvimento de software.
+  Sou um entusiasta apaixonado por desenvolvimento de software e tive a oportunidade de iniciar minha jornada nessa área em 2019, trabalhando com VBA. Desde então, tenho procurado constantemente ampliar meus conhecimentos e habilidades, adquirindo conhecimento em HTML, CSS, Python, MySQL e outras ferramentas e plataformas relevantes para o desenvolvimento de software.
 
 
 # Socials:
@@ -22,16 +22,20 @@ Sou um entusiasta apaixonado por desenvolvimento de software e tive a oportunida
 
 # GitHub Stats:
 <p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lauromotta&theme=blue-green&show_icons=true" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lauromotta&theme=blue-green&show_icons=true&include_all_commits=false&count_private=false" align="center">
+
 </p>
+
+
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauromotta&theme=blue-green&show_icons=true&include_all_commits=false&count_private=false&layout=compact" align="center">
+
 </p>
 
-
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lauromotta&theme=blue-green&show_icons=true" align="center">
-</p>
-
-
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture> -->
