@@ -29,12 +29,9 @@ Sou um entusiasta apaixonado por desenvolvimento de software e tive a oportunida
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauromotta&theme=blue-green&show_icons=true&include_all_commits=false&count_private=false&layout=compact" align="center">
 </p>
 
+
 <p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauromotta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lauromotta&theme=blue-green&show_icons=true" align="center">
 </p>
 
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lauromotta&theme=transparent&show_icons=true" align="center">
-
-</p>
