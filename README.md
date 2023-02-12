@@ -1,4 +1,4 @@
-<b>Olá! Meu nome é Lauro Motta.</b>
+<b>Meu nome é Lauro Motta.</b>
 
   Sou um entusiasta apaixonado por desenvolvimento de software e tive a oportunidade de iniciar minha jornada nessa área em 2019, trabalhando com VBA. Desde então, tenho procurado constantemente ampliar meus conhecimentos e habilidades, adquirindo conhecimento em HTML, CSS, Python, MySQL e outras ferramentas e plataformas relevantes para o desenvolvimento de software.
 
@@ -26,7 +26,6 @@
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lauromotta&theme=blue-green&show_icons=true" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lauromotta&theme=blue-green&show_icons=true&include_all_commits=false&count_private=false" align="center">
-
 </p>
 
 <p>
