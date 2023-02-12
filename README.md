@@ -2,7 +2,6 @@
 
   Sou um entusiasta apaixonado por desenvolvimento de software e tive a oportunidade de iniciar minha jornada nessa área em 2019, trabalhando com VBA. Desde então, tenho procurado constantemente ampliar meus conhecimentos e habilidades, adquirindo conhecimento em HTML, CSS, Python, MySQL e outras ferramentas e plataformas relevantes para o desenvolvimento de software.
 
-
 # Socials:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauromotta) 
@@ -23,15 +22,12 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
 # GitHub Stats:
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lauromotta&theme=blue-green&show_icons=true" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lauromotta&theme=blue-green&show_icons=true&include_all_commits=false&count_private=false" align="center">
 
 </p>
-
-
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauromotta&theme=blue-green&show_icons=true&include_all_commits=false&count_private=false&layout=compact" align="center">
