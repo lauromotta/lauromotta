@@ -1,6 +1,9 @@
 <b>Meu nome é Lauro Motta.</b>
+<img src="https://i.postimg.cc/TP8KRR1T/Motta-program-on-computer-cool-colourful-animation-character-co-ba6a04ec-1cb1-46c8-abfc-8b8f9b806afb.png" width="100"  height="100"/>
 
+<p>
   Sou um entusiasta apaixonado por desenvolvimento de software e tive a oportunidade de iniciar minha jornada nessa área em 2019, trabalhando com VBA. Desde então, tenho procurado constantemente ampliar meus conhecimentos e habilidades, adquirindo conhecimento em HTML, CSS, Python, MySQL e outras ferramentas e plataformas relevantes para o desenvolvimento de software.
+</p>
 
 # Socials:
 
