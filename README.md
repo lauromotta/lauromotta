@@ -42,12 +42,14 @@
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lauromotta&theme=blue-green&show_icons=true" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lauromotta&theme=blue-green&show_icons=true&include_all_commits=false&count_private=false" align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauromotta&theme=blue-green&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
-<p>
+<!-- <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauromotta&theme=blue-green&show_icons=true&include_all_commits=false&count_private=false&layout=compact" align="center">
 
-</p>
+</p> -->
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
