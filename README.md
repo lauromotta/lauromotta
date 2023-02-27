@@ -43,7 +43,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lauromotta&theme=blue-green&show_icons=true" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lauromotta&theme=blue-green&show_icons=true&include_all_commits=false&count_private=false" align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauromotta&theme=blue-green&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauromotta&theme=blue-green&langs_count=10)](https://github.com/lauromotta)
 </p>
 
 <!-- <p>
