@@ -40,10 +40,16 @@
 
 ### GitHub Stats:
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lauromotta&theme=blue-green&show_icons=true" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lauromotta&theme=blue-green&show_icons=true&include_all_commits=false&count_private=false" align="center">
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=lauromotta&theme=blue-green&show_icons=true" align="center"> -->
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauromotta&theme=blue-green&langs_count=10)](https://github.com/lauromotta)
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=lauromotta&theme=blue-green&show_icons=true&include_all_commits=false&count_private=false" align="center"> -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lauromotta&theme=transparent&border_radius=4&locale=pt_BR&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauromotta&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+<!-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lauromotta)](https://github.com/lauromotta) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauromotta&theme=blue-green&langs_count=10)](https://github.com/lauromotta) -->
 </p>
 
 <!-- <p>
@@ -51,8 +57,8 @@
 
 </p> -->
 
-<!-- <picture>
+<!--  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture> -->
+</picture>  -->
