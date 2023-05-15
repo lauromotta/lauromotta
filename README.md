@@ -48,7 +48,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lauromotta&theme=transparent&border_radius=4&locale=pt_BR&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
   
-![Motta](https://github-readme-stats.vercel.app/api?username=lauromotta&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lauromotta&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauromotta&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  -->
 <!-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lauromotta)](https://github.com/lauromotta) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauromotta&theme=blue-green&langs_count=10)](https://github.com/lauromotta) -->
