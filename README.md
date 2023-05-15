@@ -1,4 +1,5 @@
-## Meu nome é Lauro Motta. <img src="https://i.postimg.cc/TP8KRR1T/Motta-program-on-computer-cool-colourful-animation-character-co-ba6a04ec-1cb1-46c8-abfc-8b8f9b806afb.png" width="50px"  height="50px"/>
+## Lauro Motta.
+<!-- <img src="https://i.postimg.cc/TP8KRR1T/Motta-program-on-computer-cool-colourful-animation-character-co-ba6a04ec-1cb1-46c8-abfc-8b8f9b806afb.png" width="50px"  height="50px"/> -->
 
   `Sou um entusiasta apaixonado por desenvolvimento de software` e tive a oportunidade de iniciar minha jornada nessa área em 2019, trabalhando com VBA. Desde então, tenho procurado constantemente ampliar meus conhecimentos e habilidades, adquirindo conhecimento em __HTML, CSS, Python, MySQL e outras linguagem de programação relevantes__ para o desenvolvimento de software.
 
@@ -47,7 +48,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lauromotta&theme=transparent&border_radius=4&locale=pt_BR&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauromotta&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauromotta&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  -->
 <!-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lauromotta)](https://github.com/lauromotta) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauromotta&theme=blue-green&langs_count=10)](https://github.com/lauromotta) -->
 </p>
