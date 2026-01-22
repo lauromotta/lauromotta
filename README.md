@@ -62,7 +62,7 @@ Minha jornada na programação começou em 2019 otimizando rotinas com **VBA**. 
 | :--- | :--- | :--- |
 | 🤖 **Bot de Automação** | [Link do Repo](#) | Script Python que automatiza [tarefa X] usando Selenium. | `Python` `Selenium` |
 | 🌐 **Aplicação Web** | [Link do Repo](#) | Sistema de cadastro e gestão com interface responsiva. | `JS` `MySQL` `Bootstrap` |
-| 📊 **Análise de Dados** | [Link do Repo](#) | Extração e tratamento de dados para gerar insights. | `Python` `Pandas` |
+| 📊 **Análise de Dados** | [Link do Repo](https://github.com/lauromotta/simples_lotofacil.git) | Extração e tratamento de dados para gerar insights. | `Python` `Pandas` |
 
 ---
 
